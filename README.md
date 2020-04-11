@@ -3,7 +3,7 @@ Repository for CENG798: Quantum Computation tutorials and projects
 
 You can go to index.ipynb to acces all the material or just use the links below.
 
-### Notebooks:
+### Notebooks:
 
 1. [Review](notebooks/1-Review.ipynb)
 
