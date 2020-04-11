@@ -15,6 +15,6 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 ### Videos:
 
-## Part 1: Introduction & Review:
+#### Part 1: Introduction & Review:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/qSOJMcaexrg/0.jpg)](http://www.youtube.com/watch?v=qSOJMcaexrg)
