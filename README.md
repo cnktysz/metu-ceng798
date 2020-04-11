@@ -14,3 +14,7 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 4. [Backends in Qiskit](notebooks/4-Backends.ipynb)
 
 ### Videos:
+
+1. Part 1: Introduction & Review:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/qSOJMcaexrg/0.jpg)](http://www.youtube.com/watch?v=qSOJMcaexrg)
