@@ -1,4 +1,4 @@
-# CENG798: SPECIAL TOPICS IN COMPUTER ENGINEERING: QUANTUM COMPUTING 
+## CENG798: SPECIAL TOPICS IN COMPUTER ENGINEERING: QUANTUM COMPUTING 
 Repository for CENG798: Quantum Computation tutorials and projects
 
 You can go to the [index](index.ipynb) file to acces all the material or just use the links below.
