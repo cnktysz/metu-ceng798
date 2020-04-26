@@ -26,3 +26,7 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 #### Part 3: Measurements in Quantum Computing:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/JVFbOJOpJ7g/0.jpg)](http://www.youtube.com/watch?v=JVFbOJOpJ7g)
+
+#### Part 4: Backends in Qiskit:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NOFxY_VZjpU/0.jpg)](http://www.youtube.com/watch?v=NOFxY_VZjpU)
