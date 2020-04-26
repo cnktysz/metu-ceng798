@@ -13,6 +13,8 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 4. [Backends in Qiskit](notebooks/4-Backends.ipynb)
 
+5. [Quantum Teleportation](notebooks/5-Quantum_Teleportation.ipynb)
+
 ### Videos:
 
 #### Part 1: Introduction & Review:           
