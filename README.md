@@ -23,3 +23,6 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Gm47G03w9VU/0.jpg)](http://www.youtube.com/watch?v=Gm47G03w9VU)
 
+#### Part 3: Measurements in Quantum Computing:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/JVFbOJOpJ7g/0.jpg)](http://www.youtube.com/watch?v=JVFbOJOpJ7g)
