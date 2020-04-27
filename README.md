@@ -15,6 +15,8 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 5. [Quantum Teleportation](notebooks/5-Quantum_Teleportation.ipynb)
 
+6. [Superdense Coding](notebooks/6-Superdense_Coding.ipynb)
+
 ### Videos:
 
 #### Part 1: Introduction & Review:           
@@ -32,3 +34,13 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 #### Part 4: Backends in Qiskit:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NOFxY_VZjpU/0.jpg)](http://www.youtube.com/watch?v=NOFxY_VZjpU)
+
+#### Part 5: Quantum Teleportation:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/eHcDKsId5RQ/0.jpg)](http://www.youtube.com/watch?v=eHcDKsId5RQ)
+
+#### Part 6: Superdense Coding:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4Equ6lHC9vw/0.jpg)](http://www.youtube.com/watch?v=4Equ6lHC9vw)
+
+
