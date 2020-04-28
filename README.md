@@ -5,6 +5,8 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 ### Notebooks:
 
+You can access the videos through this [playlist](https://www.youtube.com/playlist?list=PLZWImuZNeE4On0ioy4HqMRSUFhIqJS6g2) or just click the video you want to watch below.
+
 1. [Review](notebooks/1-Review.ipynb)
 
 2. [Simple Qubit Operations](notebooks/2-Simple_Qubit_Ops.ipynb)
