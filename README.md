@@ -17,6 +17,10 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 6. [Superdense Coding](notebooks/6-Superdense_Coding.ipynb)
 
+7. [Deustch and Deustch-Jozsa Algorithms](notebooks/7-Deustch and Deustch-Jozsa Algorithms.ipynb)
+
+8. [Simon's Algorithm](notebooks/8-Simon's Algorithm.ipynb)
+
 ### Videos:
 
 #### Part 1: Introduction & Review:           
@@ -42,5 +46,21 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 #### Part 6: Superdense Coding:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/4Equ6lHC9vw/0.jpg)](http://www.youtube.com/watch?v=4Equ6lHC9vw)
+
+#### Part 7: Deutsch's Algorithm:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/dimkv5o4HgM/0.jpg)](http://www.youtube.com/watch?v=dimkv5o4HgM)
+
+#### Part 8: Deutsch-Jozsa Algorithm:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/U2ArvgYRslA/0.jpg)](http://www.youtube.com/watch?v=U2ArvgYRslA)
+
+#### Part 9: Simon's Algorithm 1:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5xwmXXt0oxg/0.jpg)](http://www.youtube.com/watch?v=5xwmXXt0oxg)
+
+#### Part 10: Simon's Algorithm 2:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/E_kVIs65f_I/0.jpg)](http://www.youtube.com/watch?v=E_kVIs65f_I)
 
 
