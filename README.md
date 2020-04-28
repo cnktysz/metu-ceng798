@@ -17,9 +17,9 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 6. [Superdense Coding](notebooks/6-Superdense_Coding.ipynb)
 
-7. [Deustch and Deustch-Jozsa Algorithms](notebooks/7-Deustch\ and\ Deustch-Jozsa\ Algorithms.ipynb)
+7. [Deustch and Deustch-Jozsa Algorithms](notebooks/7-Deustch_and_Deustch-Jozsa_Algorithms.ipynb)
 
-8. [Simon's Algorithm](notebooks/8-Simon's\ Algorithm.ipynb)
+8. [Simon's Algorithm](notebooks/8-Simons_Algorithm.ipynb)
 
 ### Videos:
 
