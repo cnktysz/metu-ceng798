@@ -21,6 +21,10 @@ You can go to the [index](index.ipynb) file to acces all the material or just us
 
 8. [Simon's Algorithm](notebooks/8-Simons_Algorithm.ipynb)
 
+9. [Grover's Search Algortihm](notebooks/9-Grovers_Search.ipynb)
+
+10. [Quantum Fourier Transform](notebooks/10-Quantum_Fourier_Transform.ipynb)
+
 ### Videos:
 
 You can access the videos through this [playlist](https://www.youtube.com/playlist?list=PLZWImuZNeE4On0ioy4HqMRSUFhIqJS6g2) or just click the video you want to watch below.
@@ -64,5 +68,14 @@ You can access the videos through this [playlist](https://www.youtube.com/playli
 #### Part 10: Simon's Algorithm 2:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/E_kVIs65f_I/0.jpg)](http://www.youtube.com/watch?v=E_kVIs65f_I)
+
+#### Part 11: Grover's Search Algorithm:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/yGDf4kGjZvw/0.jpg)](http://www.youtube.com/watch?v=yGDf4kGjZvw)
+
+#### Part 12: Quantum Fourier Transform:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/98R0ZLZ8tC8/0.jpg)](http://www.youtube.com/watch?v=98R0ZLZ8tC8)
+
 
 
