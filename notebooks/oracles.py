@@ -1,5 +1,6 @@
 from qiskit import *
 import numpy as np
+from math import pi
 
 def dj_oracle(case, n):
     # We need to make a QuantumCircuit object to return
@@ -152,3 +153,49 @@ def simonSolver(orthogonal_set):
     return result
 
 
+
+
+# QFT FUNCTIONSS
+
+def qft_rotations(circuit, n):
+    if n == 0: # Exit function if circuit is empty
+        return circuit
+    n -= 1 # Indexes start from 0
+    circuit.h(n) # Apply the H-gate to the most significant qubit
+    for qubit in range(n):
+        # For each less significant qubit, we need to do a
+        # smaller-angled controlled rotation: 
+        circuit.cu1(pi/2**(n-qubit), qubit, n)
+    # At the end of our function, we call the same function again on
+    # the next qubits (we reduced n by one earlier in the function)
+    qft_rotations(circuit, n)
+    
+def swap_registers(circuit, n):
+    for qubit in range(n//2):
+        circuit.swap(qubit, n-qubit-1)
+    return circuit
+
+def qft(circuit, n):
+    """QFT on the first n qubits in circuit"""
+    qft_rotations(circuit, n)
+    swap_registers(circuit, n)
+    return circuit
+
+def qft_oracle(qc, n):
+    oracle_circuit = QuantumCircuit(n)
+    secret_string = ""
+    for i in range(n):
+        if np.random.randint(2) == 1:
+            secret_string += '1'
+        else:
+            secret_string += '0'
+
+    for i in range(n):
+        if secret_string[i] == "1":
+            oracle_circuit.x(i)
+
+    qft(oracle_circuit, n)
+    oracle_gate = oracle_circuit.to_gate()
+    qc.append(oracle_gate, range(n))
+    return secret_string
+    
